@@ -12,3 +12,5 @@ Simulations
 Simulations of XX show YY
 
 Figures
+
+Placeholder for some figures
