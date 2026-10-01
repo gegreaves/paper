@@ -14,3 +14,7 @@ Simulations of XX show YY
 Figures
 
 Placeholder for some figures
+
+Conclusions
+
+This is where I will conclude my paper.
