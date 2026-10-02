@@ -20,3 +20,7 @@ Placeholder for some figures
 Conclusions
 
 This is where I will conclude my paper.
+
+Acknowledgements
+
+Thank you to my friends for keeping me sane throughout this project.
